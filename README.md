@@ -10,11 +10,11 @@ A simple calculator app built with Flutter, featuring a clean and intuitive user
 
 Here are three screenshots of the app:
 
-<a href="https://github.com/your-username/flutter-calculator-app/blob/main/screenshots/1.png?raw=true">
-  <img src="https://github.com/your-username/flutter-calculator-app/blob/main/screenshots/1.png?raw=true" width="400" />
+<a href="https://github.com/marufimtiaz/flutter-calculator/blob/main/screenshots/1.png?raw=true">
+  <img src="https://github.com/marufimtiaz/flutter-calculator/blob/main/screenshots/1.png?raw=true" width="400" />
 </a>
-<a href="https://github.com/your-username/flutter-calculator-app/blob/main/screenshots/2.png?raw=true">
-  <img src="https://github.com/your-username/flutter-calculator-app/blob/main/screenshots/2.png?raw=true" width="400" />
+<a href="https://github.com/marufimtiaz/flutter-calculator/blob/main/screenshots/2.png?raw=true">
+  <img src="https://github.com/marufimtiaz/flutter-calculator/blob/main/screenshots/2.png?raw=true" width="400" />
 </a>
 
 **Features**
@@ -29,7 +29,7 @@ Here are three screenshots of the app:
 
 To run the app, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/flutter-calculator-app.git`
+1. Clone the repository: `git clone https://github.com/marufimtiaz/flutter-calculator.git`
 2. Open the project in your preferred IDE (e.g. Android Studio, Visual Studio Code)
 3. Run the app on an emulator or physical device: `flutter run`
 
