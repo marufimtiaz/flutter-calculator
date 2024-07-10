@@ -11,10 +11,10 @@ A simple calculator app built with Flutter, featuring a clean and intuitive user
 Here are three screenshots of the app:
 
 <a href="https://github.com/marufimtiaz/flutter-calculator/blob/main/screenshots/1.png?raw=true">
-  <img src="https://github.com/marufimtiaz/flutter-calculator/blob/main/screenshots/1.png?raw=true" width="400" />
+  <img src="https://github.com/marufimtiaz/flutter-calculator/blob/main/screenshots/1.png?raw=true" width="300" />
 </a>
 <a href="https://github.com/marufimtiaz/flutter-calculator/blob/main/screenshots/2.png?raw=true">
-  <img src="https://github.com/marufimtiaz/flutter-calculator/blob/main/screenshots/2.png?raw=true" width="400" />
+  <img src="https://github.com/marufimtiaz/flutter-calculator/blob/main/screenshots/2.png?raw=true" width="300" />
 </a>
 
 **Features**
