@@ -1,4 +1,3 @@
-Here is a possible GitHub README for your Flutter Calculator app:
 
 **Flutter Calculator App**
 ==========================
